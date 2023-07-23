@@ -23,6 +23,8 @@ a {
     text-align: center;
     font-weight: bold;
     text-decoration: none;
+
+    margin: -4px;
 }
 
 a:hover {
